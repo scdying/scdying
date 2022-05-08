@@ -1,7 +1,14 @@
-# Keyzoth 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg" title="DiscordJS" alt="DiscordJS" width="40" height="40"/>&nbsp;
-</div>
+## Languages, Tools and Softwares
 
-## Socials
+[![Languages](https://skillicons.dev/icons?i=js,visualstudio,vscode)](https://skillicons.dev)
+  
+## Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=scdying&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scdying&theme=tokyonight&layout=compact&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
+
+## Discord
+<a href="https://discord.com/users/278290018747940874">
+  <img src="https://lanyard.cnrad.dev/api/278290018747940874" align="left" />
+</a>
