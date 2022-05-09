@@ -1,4 +1,4 @@
-## Languages, Tools and Softwares
+## Languages and Softwares
 
 [![Languages](https://skillicons.dev/icons?i=js,ts,nodejs,arduino,visualstudio,vscode)](https://skillicons.dev)
   
