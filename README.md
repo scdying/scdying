@@ -1,6 +1,6 @@
 ## Languages and Softwares
 
-[![Languages](https://skillicons.dev/icons?i=js,ts,nodejs,arduino,visualstudio,vscode)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,arduino,visualstudio,vscode)](https://skillicons.dev)
   
 ## Statistics
 
